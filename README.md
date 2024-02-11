@@ -4,7 +4,7 @@
 
 ![Screenshot_2024_02_11-1](https://github.com/elnaz-eshtiaghi/simple-slider/assets/146030206/af6adb33-378c-4c56-8062-d8ee5b102526)
 
-- [Demo Project]( https://elnaz-eshtiaghi.github.io/personal-web/)
+- [Demo Project]( https://elnaz-eshtiaghi.github.io/simple-slider/)
 
 - Developed by elnaz eshtiaghi
 
