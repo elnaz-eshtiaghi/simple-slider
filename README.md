@@ -2,7 +2,8 @@
 
 **If you have a lot of information to display on your site, why don't you use my project**
 
-![Screenshot_2023_11_04-1](https://github.com/elnaz-eshtiaghi/personal-web/assets/146030206/8009e341-b3b4-4f4c-a080-358d6160d603)
+![Screenshot_2024_02_11-1](https://github.com/elnaz-eshtiaghi/simple-slider/assets/146030206/af6adb33-378c-4c56-8062-d8ee5b102526)
+
 - [Demo Project]( https://elnaz-eshtiaghi.github.io/personal-web/)
 
 - Developed by elnaz eshtiaghi
